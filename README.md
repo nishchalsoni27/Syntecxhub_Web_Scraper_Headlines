@@ -1,6 +1,6 @@
 # 📰 Web Scraper for Headlines
 
-> **SyntecxHub — Project 2**
+> **SyntecxHub — Project 3**
 > **Author:** Nishchal Soni
 > **Date:** 2026-05-27
 
