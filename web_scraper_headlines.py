@@ -2,7 +2,7 @@
 ================================================
   Web Scraper for Headlines
   Author  : Nishchal Soni
-  Project : SyntecxHub – Project 3
+  Project : SyntecxHub – TASK 3 - Project 2
   Date    : 2026-05-27
 ================================================
 Features:
